@@ -1,7 +1,7 @@
 # Programa de Eleições - Atividade 1 (P2)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-CONCLUÍDO-blue)
 
-Este é um programa simples para calcular os resultados de uma eleição com dois partidos: PSDB (45) e PMDB (15). O programa recebe o número de eleitores e os votos de cada eleitor, e então calcula e exibe o resultado da eleição.
+Este é um programa simples para calcular os resultados de uma eleição com dois partidos: PSDB (45) e PMDB (15). O programa recebe o número de eleitores, os votos de cada eleitor e exibe o resultado da eleição.
 
 Aluna: Lara Vitória Silva Santos Barros
 
