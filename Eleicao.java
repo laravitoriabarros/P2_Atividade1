@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ElectionProgram {
+public class Eleicao {
     public static void main(String[] args) {
         // os números dos partidos
         final int numero_do_psdb = 45;
