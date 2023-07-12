@@ -7,17 +7,17 @@ Aluna: Lara Vitória Silva Santos Barros
 
 ## Funcionamento do programa
 
-O programa solicita o número de eleitores e, em seguida, pede os votos para cada partido (PSDB e PMDB) dos respectivos eleitores.
+O programa solicita a quantidade de eleitores e, em seguida, pede os votos para cada partido (PSDB e PMDB) dos respectivos eleitores.
 
-Após receber todos os votos, o programa calcula o número de votos válidos (PSDB e PMDB) e o número de votos nulos.
+Após fazer a leitura dos dados, o programa calcula o número de votos válidos (PSDB e PMDB) e o número de votos nulos.
 
-Se o número de votos nulos for superior a 50% dos votos válidos, a eleição é cancelada e o programa exibe uma mensagem informando isso.
+Se a quantidade de votos nulos for superior a 50% dos votos válidos, a eleição é cancelada e o programa exibe uma mensagem informando isso.
 
 Caso contrário, o programa determina o partido vencedor (com base nos votos válidos) ou informa um empate, se houver.
 
 O resultado da eleição é exibido, mostrando o partido vencedor (se houver), o número de votos para cada partido, e o número de votos nulos e válidos.
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
