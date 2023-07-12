@@ -36,7 +36,7 @@ public class Eleicao {
         int validos = votos_psdb + votos_pmdb;
 
         // Verificação do resultado da eleição
-        if (nulo > validos / 2) {
+        if (nulo > (validos / 2)) {
             System.out.println("Eleição cancelada devido ao alto número de votos nulos!");
         } else {
             System.out.println("Resultado da eleição:");
